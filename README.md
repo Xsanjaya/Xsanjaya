@@ -15,7 +15,7 @@
 </h2>
 
 - 🔭 I’m currently working on **Blacklion Research**
-- 🌱 I’m currently learning **Python and Quantitative Trading**
+- 🌱 I’m currently learning **Blockchain Developper, Data Dcience and Quantitative Trading**
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
