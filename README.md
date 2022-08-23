@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! I'm Xsanjaya
 <br/>
 <a href="https://twitter.com/ikhsnjy">
-  <img align="center" alt="Xsanjaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Xsanjaya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/xsanjaya/">
   <img align="center" alt="Xsanjaya's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,12 +9,12 @@
 <a href="https://www.instagram.com/ikhsnjy">
   <img align="center" alt="Xsanjaya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://xsanjaya.me">
-  <img align="center" alt="Xsanjaya's Instagram" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.xsanjaya.me">
+  <img align="center" alt="Xsanjaya's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 </h2>
 
-- 🔭 I’m currently working on **Blacklion Research**
+- 🔭 I’m currently working on **None**
 - 🌱 I’m currently learning **Blockchain Developper, Data Dcience and Quantitative Trading**
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
